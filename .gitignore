@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+*.jar
+*.apk
+*.ap_
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.iml
+
+# IDE
+.DS_Store
+*.log
+
+# Build
+bin/
+gen/
+out/
+
+# Signing
+*.jks
+*.keystore
+
+# Environment
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test coverage
+coverage/
+*.ec
+*.em
