@@ -1,0 +1,43 @@
+.gitignore
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
+
+# Build
+local.properties
+proguard-rules.pro
+
+# Firebase
+google-services.json
+
+# Secrets
+secrets.properties
+
+# IDE
+.vscode/
+.settings/
+
+# OS
+Thumbs.db
+.thumbs/
+
+# Kotlin
+*.kt.swp
+
+# Compiled files
+*.class
+*.jar
+.exthon
